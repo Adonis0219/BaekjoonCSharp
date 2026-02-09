@@ -1,6 +1,6 @@
 ﻿namespace 입출력과_사칙연산
 {
-    internal class Program
+    internal class HelloWorld
     {
         static void Main(string[] args)
         {

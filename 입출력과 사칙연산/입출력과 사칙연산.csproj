@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="2557 Hello World.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="2557 Hello World.cs" />
+  </ItemGroup>
+
 </Project>

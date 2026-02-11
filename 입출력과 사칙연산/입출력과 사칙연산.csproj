@@ -11,18 +11,21 @@
   <ItemGroup>
     <Compile Remove="1000 A+B.cs" />
     <Compile Remove="1001 A-B.cs" />
+    <Compile Remove="1008 AdivB.cs" />
+    <Compile Remove="10869 사칙연산.cs" />
+    <Compile Remove="10926 QQE.cs" />
     <Compile Remove="10998 AxB.cs" />
     <Compile Remove="2557 Hello World.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="1000 A+B.cs" />
     <None Include="1001 A-B.cs" />
+    <None Include="1008 AdivB.cs" />
+    <None Include="10869 사칙연산.cs" />
+    <None Include="10926 QQE.cs" />
     <None Include="10998 AxB.cs" />
     <None Include="2557 Hello World.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Page Include="1000 A+B.cs" />
   </ItemGroup>
 
 </Project>

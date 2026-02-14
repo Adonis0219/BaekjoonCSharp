@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="1330 Compare2num.cs" />
+    <Compile Remove="9498 ExamGrade.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1330 Compare2num.cs" />
+    <None Include="9498 ExamGrade.cs" />
+  </ItemGroup>
+
 </Project>

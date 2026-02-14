@@ -13,6 +13,7 @@
     <Compile Remove="1001 A-B.cs" />
     <Compile Remove="1008 AdivB.cs" />
     <Compile Remove="10171 Cat.cs" />
+    <Compile Remove="10172 Dog.cs" />
     <Compile Remove="10430 Remainder.cs" />
     <Compile Remove="10869 사칙연산.cs" />
     <Compile Remove="10926 QQE.cs" />
@@ -28,6 +29,7 @@
     <None Include="1001 A-B.cs" />
     <None Include="1008 AdivB.cs" />
     <None Include="10171 Cat.cs" />
+    <None Include="10172 Dog.cs" />
     <None Include="10430 Remainder.cs" />
     <None Include="10869 사칙연산.cs" />
     <None Include="10926 QQE.cs" />

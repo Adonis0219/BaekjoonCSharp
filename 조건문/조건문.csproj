@@ -9,13 +9,21 @@
 
   <ItemGroup>
     <Compile Remove="1330 Compare2num.cs" />
+    <Compile Remove="14681 Quadrant.cs" />
+    <Compile Remove="2480 Dice.cs" />
+    <Compile Remove="2525 Oven Clock.cs" />
     <Compile Remove="2753 LeapYear.cs" />
+    <Compile Remove="2884 Alam Clock.cs" />
     <Compile Remove="9498 ExamGrade.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="1330 Compare2num.cs" />
+    <None Include="14681 Quadrant.cs" />
+    <None Include="2480 Dice.cs" />
+    <None Include="2525 Oven Clock.cs" />
     <None Include="2753 LeapYear.cs" />
+    <None Include="2884 Alam Clock.cs" />
     <None Include="9498 ExamGrade.cs" />
   </ItemGroup>
 

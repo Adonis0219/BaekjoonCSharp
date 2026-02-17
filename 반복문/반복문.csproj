@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Remove="10950 A+B - 3.cs" />
     <Compile Remove="25304 Receipt.cs" />
+    <Compile Remove="25314 CodingIsPhysical.cs" />
     <Compile Remove="2739 9x9.cs" />
     <Compile Remove="8393 Sum.cs" />
   </ItemGroup>
@@ -17,6 +18,7 @@
   <ItemGroup>
     <None Include="10950 A+B - 3.cs" />
     <None Include="25304 Receipt.cs" />
+    <None Include="25314 CodingIsPhysical.cs" />
     <None Include="2739 9x9.cs" />
     <None Include="8393 Sum.cs" />
   </ItemGroup>

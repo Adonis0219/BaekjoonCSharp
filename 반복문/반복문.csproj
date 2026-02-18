@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Compile Remove="10950 A+B - 3.cs" />
+    <Compile Remove="11021 A+B - 7.cs" />
+    <Compile Remove="11022 A+B - 8.cs" />
     <Compile Remove="25304 Receipt.cs" />
     <Compile Remove="25314 CodingIsPhysical.cs" />
     <Compile Remove="2739 9x9.cs" />
@@ -17,10 +19,16 @@
 
   <ItemGroup>
     <None Include="10950 A+B - 3.cs" />
+    <None Include="11021 A+B - 7.cs" />
+    <None Include="11022 A+B - 8.cs" />
     <None Include="25304 Receipt.cs" />
     <None Include="25314 CodingIsPhysical.cs" />
     <None Include="2739 9x9.cs" />
     <None Include="8393 Sum.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="2438 Star - 1\" />
   </ItemGroup>
 
 </Project>

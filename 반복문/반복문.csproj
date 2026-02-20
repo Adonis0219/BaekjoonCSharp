@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="10950 A+B - 3.cs" />
+    <Compile Remove="10951 A+B - 4.cs" />
     <Compile Remove="10952 A+B - 5.cs" />
     <Compile Remove="11021 A+B - 7.cs" />
     <Compile Remove="11022 A+B - 8.cs" />
@@ -22,6 +23,7 @@
 
   <ItemGroup>
     <None Include="10950 A+B - 3.cs" />
+    <None Include="10951 A+B - 4.cs" />
     <None Include="10952 A+B - 5.cs" />
     <None Include="11021 A+B - 7.cs" />
     <None Include="11022 A+B - 8.cs" />

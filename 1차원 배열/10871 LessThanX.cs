@@ -9,7 +9,7 @@ namespace _1차원_배열
         static void Main()
         {
             var temp = Console.ReadLine().Split();
-            int N = int.Parse(temp[0]), X = int.Parse(temp[1]);
+            int N = int.Parse(temp[0]), X = int.Parse(temp[1]); 
             string[] s = Console.ReadLine().Split();
 
             string printS = "";

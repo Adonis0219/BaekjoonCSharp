@@ -11,17 +11,21 @@
   <ItemGroup>
     <Compile Remove="10807 Counting.cs" />
     <Compile Remove="10810 Put Ball.cs" />
+    <Compile Remove="10813 Change Ball.cs" />
     <Compile Remove="10818 Min Max.cs" />
     <Compile Remove="10871 LessThanX.cs" />
     <Compile Remove="2562 Max.cs" />
+    <Compile Remove="5597 과제 안 내신 분.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="10807 Counting.cs" />
     <None Include="10810 Put Ball.cs" />
+    <None Include="10813 Change Ball.cs" />
     <None Include="10818 Min Max.cs" />
     <None Include="10871 LessThanX.cs" />
     <None Include="2562 Max.cs" />
+    <None Include="5597 과제 안 내신 분.cs" />
   </ItemGroup>
 
 </Project>

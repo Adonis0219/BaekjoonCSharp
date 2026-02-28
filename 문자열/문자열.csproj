@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="27866 Char String.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="27866 Char String.cs" />
+  </ItemGroup>
+
 </Project>

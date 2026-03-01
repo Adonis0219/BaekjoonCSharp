@@ -8,10 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="2743 Length.cs" />
     <Compile Remove="27866 Char String.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="2743 Length.cs" />
     <None Include="27866 Char String.cs" />
   </ItemGroup>
 

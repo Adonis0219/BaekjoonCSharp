@@ -8,14 +8,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="10809 Find Alphabet.cs" />
     <Compile Remove="11654 ASCII.cs" />
+    <Compile Remove="11720 Sum Of Nums.cs" />
+    <Compile Remove="2675 Repeat String.cs" />
     <Compile Remove="2743 Length.cs" />
     <Compile Remove="27866 Char String.cs" />
     <Compile Remove="9086 String.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="10809 Find Alphabet.cs" />
     <None Include="11654 ASCII.cs" />
+    <None Include="11720 Sum Of Nums.cs" />
+    <None Include="2675 Repeat String.cs" />
     <None Include="2743 Length.cs" />
     <None Include="27866 Char String.cs" />
     <None Include="9086 String.cs" />

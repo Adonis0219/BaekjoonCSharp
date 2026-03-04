@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="25083 새싹.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="25083 새싹.cs" />
+  </ItemGroup>
+
 </Project>

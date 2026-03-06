@@ -10,10 +10,12 @@
 
   <ItemGroup>
     <Compile Remove="25083 새싹.cs" />
+    <Compile Remove="3003 킹 퀸 룩 비숍.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="25083 새싹.cs" />
+    <None Include="3003 킹 퀸 룩 비숍.cs" />
   </ItemGroup>
 
 </Project>

@@ -11,8 +11,10 @@
   <ItemGroup>
     <Compile Remove="10998 팰린드롬.cs" />
     <Compile Remove="1157 단어 공부.cs" />
+    <Compile Remove="1316 그룹 단어 체커.cs" />
     <Compile Remove="2444 별 찍기 - 7.cs" />
     <Compile Remove="25083 새싹.cs" />
+    <Compile Remove="25206 너의 평점은.cs" />
     <Compile Remove="2941 크로아티아 알파벳.cs" />
     <Compile Remove="3003 킹 퀸 룩 비숍.cs" />
   </ItemGroup>
@@ -20,8 +22,10 @@
   <ItemGroup>
     <None Include="10998 팰린드롬.cs" />
     <None Include="1157 단어 공부.cs" />
+    <None Include="1316 그룹 단어 체커.cs" />
     <None Include="2444 별 찍기 - 7.cs" />
     <None Include="25083 새싹.cs" />
+    <None Include="25206 너의 평점은.cs" />
     <None Include="2941 크로아티아 알파벳.cs" />
     <None Include="3003 킹 퀸 룩 비숍.cs" />
   </ItemGroup>

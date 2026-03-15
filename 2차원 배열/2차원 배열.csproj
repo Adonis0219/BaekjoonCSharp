@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="2738 행렬 덧셈.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="2738 행렬 덧셈.cs" />
+  </ItemGroup>
+
 </Project>

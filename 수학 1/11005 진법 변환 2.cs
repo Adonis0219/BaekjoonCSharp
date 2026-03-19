@@ -12,7 +12,21 @@ namespace 수학_1
             int n = int.Parse(token[0]);
             int b = int.Parse(token[1]);
 
+            StringBuilder sb = new StringBuilder();
 
+            while (n != 0)
+            {
+                if (n % b > 9)
+                {
+                    char a = (char)((n % b) + 55);
+                    sb.Insert(0, a);
+                }
+                else sb.Insert(0, n % b);
+
+                n /= b;
+            }
+
+            Console.WriteLine(sb.ToString());
         }
     }
 }

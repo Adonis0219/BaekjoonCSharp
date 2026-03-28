@@ -18,7 +18,7 @@ namespace 수학_1
 
                 while (true)
                 {
-                    if (n >= (6 * start + 2) && n <= (6 * (start + gap)))
+                    if (n >= (6 * start + 2) && n <= (6 * (start + gap) + 1))
                     {
                         Console.WriteLine(answer + 1);
                         return;

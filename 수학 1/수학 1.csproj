@@ -8,4 +8,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="11005 진법 변환 2.cs" />
+    <Compile Remove="2720 세탁소 사장 동혁.cs" />
+    <Compile Remove="2745 진법 변환.cs" />
+    <Compile Remove="2903 중앙 이동 알고리즘.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="11005 진법 변환 2.cs" />
+    <None Include="2720 세탁소 사장 동혁.cs" />
+    <None Include="2745 진법 변환.cs" />
+    <None Include="2903 중앙 이동 알고리즘.cs" />
+  </ItemGroup>
+
 </Project>

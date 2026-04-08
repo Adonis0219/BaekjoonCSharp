@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <Compile Remove="11005 진법 변환 2.cs" />
+    <Compile Remove="1193 분수찾기.cs" />
     <Compile Remove="2292 벌집.cs" />
     <Compile Remove="2720 세탁소 사장 동혁.cs" />
     <Compile Remove="2745 진법 변환.cs" />
@@ -18,6 +19,7 @@
 
   <ItemGroup>
     <None Include="11005 진법 변환 2.cs" />
+    <None Include="1193 분수찾기.cs" />
     <None Include="2292 벌집.cs" />
     <None Include="2720 세탁소 사장 동혁.cs" />
     <None Include="2745 진법 변환.cs" />

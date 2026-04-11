@@ -3,6 +3,7 @@
   <Project Path="2차원 배열/2차원 배열.csproj" Id="b8fa9954-f9e6-4329-bd78-e469425ab41a" />
   <Project Path="문자열/문자열.csproj" Id="8832825d-8108-4c5a-802b-b7cc1977efdf" />
   <Project Path="반복문/반복문.csproj" Id="c6c53fa4-f1fc-4313-a8bf-4d469b71320e" />
+  <Project Path="배수, 약수와 소수 1/배수, 약수와 소수 1.csproj" Id="cd612a67-d465-49ec-91c0-d7821c4a421b" />
   <Project Path="수학 1/수학 1.csproj" Id="3d95b99d-075c-4d41-9d0e-3831208bd402" />
   <Project Path="심화 1/심화 1.csproj" Id="d6ac115b-e36d-4a1c-8a0d-d50af059f45e" />
   <Project Path="입출력과 사칙연산/입출력과 사칙연산.csproj" />
